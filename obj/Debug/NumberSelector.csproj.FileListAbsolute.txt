@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\NumberSelector\bin\Debug\NumberSelector.exe.config
+C:\Users\ASUS\source\repos\NumberSelector\bin\Debug\NumberSelector.exe
+C:\Users\ASUS\source\repos\NumberSelector\bin\Debug\NumberSelector.pdb
+C:\Users\ASUS\source\repos\NumberSelector\obj\Debug\NumberSelector.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\NumberSelector\obj\Debug\NumberSelector.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\NumberSelector\obj\Debug\NumberSelector.Form1.resources
+C:\Users\ASUS\source\repos\NumberSelector\obj\Debug\NumberSelector.Properties.Resources.resources
+C:\Users\ASUS\source\repos\NumberSelector\obj\Debug\NumberSelector.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\NumberSelector\obj\Debug\NumberSelector.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\NumberSelector\obj\Debug\NumberSelector.exe
+C:\Users\ASUS\source\repos\NumberSelector\obj\Debug\NumberSelector.pdb
